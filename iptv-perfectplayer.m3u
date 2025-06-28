@@ -57,6 +57,10 @@ http://192.168.2.1:10000/udp/225.1.8.179:4222
 http://192.168.2.1:10000/udp/225.1.8.180:4222
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CGTN俄语【高清】
 http://192.168.2.1:10000/udp/225.1.8.181:4222
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视4K超高清【4K】
+http://192.168.2.1:10000/udp/225.1.8.128:8002
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视4K超高清 SDR【4K】
+http://192.168.2.1:10000/udp/225.1.8.120:8002
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",BRTV北京卫视【高清】
 http://192.168.2.1:10000/udp/225.1.8.21:8002
 #EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="" group-title="北京",BRTV文艺【高清】
@@ -87,8 +91,6 @@ http://192.168.2.1:10000/udp/225.1.8.75:8002
 http://192.168.2.1:10000/udp/225.1.8.103:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",通州融媒【高清】
 http://192.168.2.1:10000/udp/225.1.8.119:8002
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视4K SDR 测试
-http://192.168.2.1:10000/udp/225.1.1.7:8000
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央视",湖南卫视【高清】
 http://192.168.2.1:10000/udp/225.1.8.41:8012
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视【高清】
@@ -119,6 +121,8 @@ http://192.168.2.1:10000/udp/225.1.8.76:8002
 http://192.168.2.1:10000/udp/225.1.8.77:8076
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视【高清】
 http://192.168.2.1:10000/udp/225.1.8.79:8148
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视【高清】
+http://192.168.2.1:10000/udp/225.1.8.118:8180
 #EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视【高清】
 http://192.168.2.1:10000/udp/225.1.8.171:8166
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视【高清】
@@ -127,6 +131,10 @@ http://192.168.2.1:10000/udp/225.1.8.172:8162
 http://192.168.2.1:10000/udp/225.1.8.184:8174
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视【高清】
 http://192.168.2.1:10000/udp/225.1.8.206:8184
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视4K超高清【4K】
+http://192.168.2.1:10000/udp/225.1.8.65:2000
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视4K超高清【4K】
+http://192.168.2.1:10000/udp/225.1.8.164:2000
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实【高清】
 http://192.168.2.1:10000/udp/225.1.8.31:8156
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",乐游【高清】
