@@ -75,10 +75,10 @@ http://192.168.2.1:10000/udp/225.1.8.106:8002
 http://192.168.2.1:10000/udp/225.1.8.23:8002
 #EXTINF:-1 tvg-id="1878" tvg-name="BTV生活" tvg-logo="" group-title="北京",BRTV生活【高清】
 http://192.168.2.1:10000/udp/225.1.8.108:8002
-#EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="" group-title="北京",BRTV新闻【高清】
-http://192.168.2.1:10000/udp/225.1.8.83:8000
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="卫视",BRTV卡酷少儿【高清】
 http://192.168.2.1:10000/udp/225.1.8.35:8000
+#EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="" group-title="北京",BRTV新闻【高清】
+http://192.168.2.1:10000/udp/225.1.8.83:8000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",BTV国际频道【高清】
 http://192.168.2.1:10000/udp/225.1.8.131:8002
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",房山电视台【高清】
